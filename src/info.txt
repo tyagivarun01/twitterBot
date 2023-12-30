@@ -1,1 +1,2 @@
-test. file
+test.file
+General Test file for commit test
