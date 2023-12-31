@@ -1,2 +1,5 @@
-test.file
-General Test file for commit test
+Most of the required information is already mentioned in file.
+
+Inputs that you need to provide are: Images directory, Twitter credentials.
+
+there is lot of scope for improvement its just a demo file.
